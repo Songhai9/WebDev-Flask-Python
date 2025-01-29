@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b50410ca-35a2-442f-99fe-581465a1042b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/.idea/Rendering HTMLstatic files and using website templates.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/ie8.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/ie9 - Copy.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/ie9.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/main.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/noscript.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_functions.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_mixins.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_skel.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_vars.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_copyright.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_footer.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_main.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_wrapper.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_button.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_form.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_icon.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_list.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/fdfbe966239fea8d85b20cc3e91511822b0ce989/_page.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/.sass-cache/fdfbe966239fea8d85b20cc3e91511822b0ce989/_typography.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/css/ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/css/ie9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/css/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/css/noscript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/js/PIE.htc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/js/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/base/_page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/base/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/components/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/components/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/components/_icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/components/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/ie8.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/ie9.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/layout/_main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/layout/_wrapper.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/libs/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/libs/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/libs/_skel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/libs/_vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/assets/sass/noscript.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/images/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/static/images/oumar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2sHKlHM6ilOxAp5Vd6iDaqNTDqU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.oumar.html.executor": "Run",
+    "Python.server.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Python",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/name-card" />
+      <recent name="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/static/images" />
+      <recent name="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/static" />
+      <recent name="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates/templates" />
+      <recent name="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="static files and using website templates" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="static files and using website templates" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="static files and using website templates" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="static files and using website templates" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="static files and using website templates" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="static files and using website templates" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="static files and using website templates" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="static files and using website templates" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="static files and using website templates" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b50410ca-35a2-442f-99fe-581465a1042b" name="Changes" comment="" />
+      <created>1737451124110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737451124110</updated>
+      <workItem from="1737451125259" duration="922000" />
+      <workItem from="1738107210406" duration="5722000" />
+      <workItem from="1738164101002" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Rendering_HTML_static_files_and_using_website_templates$server.coverage" NAME="server Coverage Results" MODIFIED="1738110146152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Rendering HTML &amp; static files and using website templates" />
+  </component>
+</project>
